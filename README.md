@@ -1,23 +1,11 @@
 
-
-
-
-
-
-
-
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=BC00FF&center=falso&vCenter=falso&lines=𝐋𝐚𝐮𝐫𝐚 𝐏𝐫𝐢𝐯𝐚𝐭 𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐲+𝐏𝐞𝐝𝐫𝐨𝐳𝐳 𝐌𝐨𝐝𝐬">
-
 <h1 align="center">
 <p>
 <img src= "https://files.catbox.moe/4jb6kt.jpg" alt="pedrozzMods" width="720">
 </p>
 
 <p align="center">
-<a href="#"><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/Laura Privat Infinity-purple?&style=for-the-badge"></a>
+<a href="#"><img title="Laura Privat" src="https://img.shields.io/badge/Laura Privat Infinity-purple?&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -29,6 +17,7 @@
   
 [![WhatsApp](https://img.shields.io/badge/Suporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IUWCuqHcWSsIcogrQjP6SX)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrozz_13755)
+[![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pedrozz_Mods)
 </div>
 
 ## INSTALAÇÃO DO BOT VIA TERMUX
@@ -64,12 +53,12 @@ cd /sdcard && git clone https://github.com/Pedrozz13755/Laura-privat.git
 ````
 5 - COMANDO:
 ````bash
-cd /sdcard/Laura-privat-MD && sh laura.sh
+cd /sdcard/Laura-privat && sh laura.sh
 ````
-> Use-o para toda vez que for ligar o bot!
+> Você vai ter que usar isso toda vez que for ligar o bot no terminal.
 ------------------
 
-## Atualizações/links
+## Informações / links
 
 - **Atualizações**: Grupo onde terá informações/novas atualizações da bot
 
@@ -77,3 +66,10 @@ cd /sdcard/Laura-privat-MD && sh laura.sh
 * [__Canal WA__](https://whatsapp.com/channel/0029Vb4FDsmISTkKHJ6whx1W)
 * [__Hospedagem__](https://speedhosting.cloud)
 * [__Canal YT__](https://www.youtube.com/@pedrozz_Mods)
+
+## Criador / Dono
+
+-  O criador da bot é o **Pedrozz Mods** ele fez a laura do 0 é ela está online a quase 2 anos 🧸
+
+* [__Numero__](Wa.me/556199317165)
+* [__Numero da bot__](Wa.me/556191969269)
