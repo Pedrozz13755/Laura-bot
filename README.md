@@ -23,7 +23,7 @@
 ## INSTALAÇÃO DO BOT VIA TERMUX
 
 **BAIXAR O TERMUX**
-[Baixar o termux](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file).
+[Baixar o termux](https://mega.nz/file/uglXFZaT#y6yCfop0vS-DY0cPC9SOInpEO-6tu3ks1xYk91Lj8RI).
 
 ## Comandos de instalação no termux:
 
@@ -45,17 +45,29 @@ pkg upgrade -y && pkg update -y
 ------------------
 3 - COMANDO:
 ````bash
-pkg install -y ffmpeg nodejs-lts wget tesseract git
+pkg install -y
 ````
 4 - COMANDO:
 ````bash
-cd /sdcard && git clone https://github.com/Pedrozz13755/Laura-privat.git
+pkg install nodejs
 ````
 5 - COMANDO:
 ````bash
+pkg install yarn
+````
+6 - COMANDO:
+````bash
+pkg install git
+````
+7 - COMANDO:
+````bash
+cd /sdcard && git clone https://github.com/Pedrozz13755/Laura-privat.git
+````
+8 - COMANDO:
+````bash
 cd /sdcard/Laura-privat && sh laura.sh
 ````
-> Você vai ter que usar isso toda vez que for ligar o bot no terminal.
+> Você vai ter que usar isso toda vez que for ligar o bot no terminal (somente esse).
 ------------------
 
 ## Informações / links
