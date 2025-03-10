@@ -47,22 +47,27 @@ pkg upgrade -y && pkg update -y
 ````bash
 pkg install -y
 ````
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 4 - COMANDO:
 ````bash
 pkg install nodejs
 ````
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 5 - COMANDO:
 ````bash
 pkg install yarn
 ````
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 6 - COMANDO:
 ````bash
 pkg install git
 ````
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 7 - COMANDO:
 ````bash
 cd /sdcard && git clone https://github.com/Pedrozz13755/Laura-privat.git
 ````
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 8 - COMANDO:
 ````bash
 cd /sdcard/Laura-privat && sh laura.sh
