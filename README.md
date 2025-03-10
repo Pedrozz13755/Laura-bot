@@ -29,20 +29,20 @@
 
 > Copie e cole apenas 1 comando por vez, e pressione enter ou pular linha no seu teclado.
 > Espere o comando acabar para iniciar outro.
-------------------
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 1 - COMANDO:
 ````bash
 termux-setup-storage
 ````
 > Para o termux ter acesso aos arquivos
-------------------
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 2 - COMANDO:
 ````bash
 pkg upgrade -y && pkg update -y
 ````
 > **Atenção**!!!
 > Se aparecer "(Y/I/N/O/D/Z) [default=N] ?", use Y e após Enter ou pular linha no seu teclado.
-------------------
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 3 - COMANDO:
 ````bash
 pkg install -y
@@ -68,7 +68,7 @@ cd /sdcard && git clone https://github.com/Pedrozz13755/Laura-privat.git
 cd /sdcard/Laura-privat && sh laura.sh
 ````
 > Você vai ter que usar isso toda vez que for ligar o bot no terminal (somente esse).
-------------------
+![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 
 ## Informações / links
 
